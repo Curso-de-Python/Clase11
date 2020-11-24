@@ -20,6 +20,7 @@ while flag:
 
 print('Listo')
 
+'''
 # ----------------------------
 # KEYBOARD INTERRUPT
 # Este programa no puede terminarse con Ctrl-C
