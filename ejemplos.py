@@ -6,6 +6,7 @@ y = math.sqrt(x)
 
 print("La raíz cuadrada de", x, "es igual a", y)
 
+'''
 # -----------------------------------
 # MANEJO DE EXCEPCIONES
 
@@ -22,3 +23,4 @@ try:
   print(numero1 / numero2)
 except ZeroDivisionError:
   print("¿Intentaste dividir entre cero?")
+'''
