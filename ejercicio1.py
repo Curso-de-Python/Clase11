@@ -14,6 +14,7 @@ except ZeroDivisionError:
 
 print("2")
 
+'''
 # ¿Cómo saber qué causó la excepción?
 try:
   x = int(input("Ingresa un numero: "))
@@ -63,3 +64,4 @@ try:
   mate(0)
 except ArithmeticError:
   print("¡Se lanzó una excepción!")
+'''
