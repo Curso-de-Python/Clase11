@@ -14,6 +14,7 @@ try:
 except ArithmeticError:
   print("¿Que pasó? ¿Un error?")
 
+'''
 # 2da aplicación
 def mate(n):
   try:
@@ -36,3 +37,4 @@ assert x >= 0.0
 x = math.sqrt(x)
 
 print(x)
+'''
